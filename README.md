@@ -5,7 +5,7 @@ Nesse repositório estarei lhes mostrando um urso andando infinitamente
 
 ![Badge Feito](https://img.shields.io/badge/Status-Feito-red)
 
-# :hamer: O que esse urso faz?
+# :hammer: O que esse urso faz?
 
 - 'Ele apenas anda infinitamente'
 
@@ -16,4 +16,5 @@ Nesse repositório estarei lhes mostrando um urso andando infinitamente
 
 # Autor
 
-|.[<[img src="https://github.com/account" widith=115><br><sub> Gu-Kleitin</sub>](https://github.com/Gu-Kleitin)
+| .[<[img src="https://github.com/account" widith=115><br><sub> Gu-Kleitin</sub>](https://github.com/Gu-Kleitin) |
+| :---: |
