@@ -22,5 +22,5 @@ Nesse repositório estarei lhes mostrando um urso andando infinitamente
 
 # Autor
 
-| .[<img src="https://avatars.githubusercontent.com/u/118762722?v=4" widith=105><br><sub>Gu-Kleitin</sub>](https://github.com/Gu-Kleitin) |
+| .[<img src="https://avatars.githubusercontent.com/u/118762722?v=4" widith=60><br><sub>Gu-Kleitin</sub>](https://github.com/Gu-Kleitin) |
 | :---: |
