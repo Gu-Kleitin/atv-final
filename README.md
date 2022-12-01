@@ -14,7 +14,13 @@ Nesse repositório estarei lhes mostrando um urso andando infinitamente
 - 'HTML'
 - 'Javascript'
 
+# Acesso ao html do gif
+***Está nesse repositório "atv-final", seu nome é Urso andando.hmtl***
+
+# Como rodar o gif
+***Será necessário algum programa que rode html, além de baixar os arquivos .png***
+
 # Autor
 
-| .[<img src="https://github.com/account" widith=115><br><sub> Gu-Kleitin</sub>](https://github.com/Gu-Kleitin) |
+| .[<img src="https://github.com/account" widith=115><br><sub>Gu-Kleitin</sub>](https://github.com/Gu-Kleitin) |
 | :---: |
